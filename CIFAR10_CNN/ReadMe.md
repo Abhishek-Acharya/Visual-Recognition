@@ -1,0 +1,1 @@
+The aim was to perfrm object classification on CIFAR-10 dataset. The model here used was a CNN with 4 Convolutional and 2 Fully Connected layer, architecture was inspired from AlexNet and was able to achieve a accuracy of 84.76%
